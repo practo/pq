@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Clever/pq/oid"
+	"github.com/practo/pq/oid"
 )
 
 const headerSize = 4

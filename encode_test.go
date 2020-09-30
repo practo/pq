@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Clever/pq/oid"
+	"github.com/practo/pq/oid"
 )
 
 func TestScanTimestamp(t *testing.T) {

@@ -7,7 +7,7 @@ using this package directly. For example:
 	import (
 		"database/sql"
 
-		_ "github.com/Clever/pq"
+		_ "github.com/practo/pq"
 	)
 
 	func main() {
@@ -240,7 +240,7 @@ for more information).  Note that the channel name will be truncated to 63
 bytes by the PostgreSQL server.
 
 You can find a complete, working example of Listener usage at
-https://godoc.org/github.com/Clever/pq/example/listen.
+https://godoc.org/github.com/practo/pq/example/listen.
 
 */
 package pq

@@ -19,7 +19,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/Clever/pq/oid"
+	"github.com/practo/pq/oid"
 )
 
 // Common error types

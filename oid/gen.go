@@ -12,7 +12,7 @@ import (
 	"os/exec"
 	"strings"
 
-	_ "github.com/Clever/pq"
+	_ "github.com/practo/pq"
 )
 
 // OID represent a postgres Object Identifier Type.

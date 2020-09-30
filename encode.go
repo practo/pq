@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Clever/pq/oid"
+	"github.com/practo/pq/oid"
 )
 
 func binaryEncode(parameterStatus *parameterStatus, x interface{}) []byte {

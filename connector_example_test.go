@@ -6,7 +6,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/Clever/pq"
+	"github.com/practo/pq"
 )
 
 func ExampleNewConnector() {
